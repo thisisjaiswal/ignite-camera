@@ -19,7 +19,7 @@
     "parser": "babel-eslint"
   },
   "url": "https://github.com/lwansbrough/react-native-camera",
-  "repository": "githuborg/reponame",
+  "repository": "thisisjaiswal/ignite-camera",
   "devDependencies": {
     "ava": "^0.18.2",
     "babel-eslint": "^7.1.1",
